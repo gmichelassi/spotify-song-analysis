@@ -1,0 +1,2 @@
+from config.constants import SPOTIFY_AUTH_URL
+from config.constants import SPOTIFY_SCOPE_PERMISSIONS
